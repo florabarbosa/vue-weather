@@ -1,6 +1,7 @@
 <template>
   <div id="app">
     <main>
+
       <div class="search-box">
         <input 
           type="text" 
@@ -88,7 +89,7 @@ body{
   background-image: url('assets/images.jpg');
   background-size: cover;
   background-position: bottom;
-  transition: 0.4s;
+  transition: 0.3s;
 }
 
 main{
